@@ -1,0 +1,10 @@
+{
+  "id": "string",
+  "name": "string",
+  "timestamp": "date",
+  "body": {
+    "orderId": "string",
+    "emailAddress": "string",
+    "content": "string",
+  }
+}

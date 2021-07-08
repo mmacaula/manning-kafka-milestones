@@ -1,0 +1,15 @@
+{
+  "id": "string",
+  "name": "string",
+  "timestamp": "date",
+  "body": {
+    "customerId": "string",
+    "orderId": "string",
+    "items": [
+      {
+        "itemId": "string"
+      }
+    ],
+    "shippingAddress": "string"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "string",
+  "name": "string",
+  "timestamp": "date",
+  "body": {
+    "orderId": "string",
+    "wharehouseName": "string",
+    "items": [
+      {
+        "itemId": "string"
+      }
+    ]
+  }
+}
