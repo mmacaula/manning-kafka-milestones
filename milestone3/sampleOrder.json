@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "productCode": "12345",
+      "quantity": 2
+    }
+  ],
+  "customer": {
+    "firstName": "Tom",
+    "lastName": "Hardy",
+    "emailAddress": "tom.hardy@email.com",
+    "shippingAddress": {
+      "line1": "123 Anywhere St",
+      "city": "Anytown",
+      "state": "AL",
+      "postalCode": "12345"
+    }
+  }
+}
